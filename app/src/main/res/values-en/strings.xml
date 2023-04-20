@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FileTransfer</string>
+    <string name="target">Target</string>
+    <string name="filelist">File List</string>
+    <string name="send">Send</string>
+    <string name="flush">Flush</string>
+</resources>

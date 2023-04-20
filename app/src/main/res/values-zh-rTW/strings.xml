@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">檔案傳輸助手</string>
+    <string name="target">目標</string>
+    <string name="filelist">文件列表</string>
+    <string name="send">發送</string>
+    <string name="flush">刷新</string>
+</resources>

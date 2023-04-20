@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">文件传输助手</string>
+    <string name="target">目标</string>
+    <string name="filelist">文件列表</string>
+    <string name="send">发送</string>
+    <string name="flush">刷新</string>
+</resources>
